@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpetch",
+        "uuid": 28268382,
+        "checksum": "mfveh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
